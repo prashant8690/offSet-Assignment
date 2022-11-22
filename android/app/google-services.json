@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "543180134123",
+    "project_id": "offsetfarmassignment",
+    "storage_bucket": "offsetfarmassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543180134123:android:0ae9e9225c725af9a210ae",
+        "android_client_info": {
+          "package_name": "com.example.offsetfarm_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543180134123-l0c44un178qcq4m00uspcbg4sd4d15a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmU-ZOX2ahz7nHELVavi0jWZqItwFPTXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543180134123-l0c44un178qcq4m00uspcbg4sd4d15a2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
